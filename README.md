@@ -2,7 +2,7 @@
 <img src="assets/real.png" alt="logo"  widht="250px" >
 </h1>
 
-<video src="assets/´video-dinheiro.mp4"  atl="dolar" left="10px"/> 
+<video src="assets/´video-dinheiro.mp4"  atl="dolar" /> 
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <h2>Tecnologias utilizadas</h2>
    
