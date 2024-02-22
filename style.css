@@ -124,7 +124,7 @@ section {
 
 @media screen and (max-width: 750px) {
     main {
-        height: auto;
+        height: 90%;
         padding: 10px;
         position: relative;
         left: 10px;
