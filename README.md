@@ -1,6 +1,13 @@
 <h1 align="center">
 <img src="assets/real.png" alt="logo"  widht="250px" >
-<img src="assets/dolar-americano.png" alt="logo"  widht="250px" >
+<img src="assets/dolar-americano.png" alt="logo"  widht="250px"/>
+<img src="assets/dolar-canadense.png" alt="logo"  widht="250px"/>
+<img src="assets/euro.png" alt="logo"  widht="250px"/>
+<img src="assets/iene.png" alt="logo"  widht="250px"/>
+<img src="assets/won.png" alt="logo"  widht="250px"/>
+<img src="assets/peso-argentino.png" alt="logo"  widht="250px"/>
+<img src="assets/bitcoin.png" alt="logo"  widht="250px"/>
+<img src="assets/libra.png" alt="logo"  widht="250px"/>
 </h1>
 
 
